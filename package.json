@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/jvalaj/vschat#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^17.2.2",
     "ws": "^8.18.3"
   }
 }
